@@ -1,0 +1,9 @@
+body {
+  background-image: url("https://media.cntraveler.com/photos/5818a486b6f3d25e7b5c6a3e/master/pass/GettyImages-573103543.jpg") ;
+  background-size: 100%; 
+}
+
+.bg-info {
+  background-color: rgba(78, 143, 78, 0.645);
+  color:  lightgray;
+}
