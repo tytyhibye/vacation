@@ -1,6 +1,6 @@
-# _Machu Picchu_
+# _Machu Picchu | Our Vacation Site_
 
-#### _Week One, Epicodus Practice: Installing and Implementing Bootstrap, 03.19.2020
+#### _Week One, Epicodus Practice: Installing and Implementing Bootstrap, 03.19.2020_
 
 #### By _**Tyler Bates, Christine Augustine**_
 
